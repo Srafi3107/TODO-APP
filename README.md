@@ -4,21 +4,20 @@ A simple, intuitive, and interactive To-Do List App built using vanilla JavaScri
 
 Features
 
-Add Tasks: Quickly add new tasks using the input form.
+1. Add Tasks: Quickly add new tasks using the input form.
 
-Edit Tasks: Modify your existing tasks inline by toggling between Edit and Save.
+2. Edit Tasks: Modify your existing tasks inline by toggling between Edit and Save.
 
-Delete Tasks: Remove tasks from the list with a single click.
+3. Delete Tasks: Remove tasks from the list with a single click.
 
-Mark as Completed: Cross out completed tasks with a visual line-through style.
+4. Mark as Completed: Cross out completed tasks with a visual line-through style.
 
-Set Task Priority
+5. Set Task Priority: Highlight important tasks with a Priority toggle that visually distinguishes them from others.
 
-Highlight important tasks with a Priority toggle that visually distinguishes them from others.
 
-💻 Responsive UI
+Responsive UI
 
 Clean layout that works on both desktop and mobile devices.
 
-🛠️ Tech Stack: HTML5 and CSS3
+Tech Stack: HTML5 and CSS3
 
