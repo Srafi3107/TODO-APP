@@ -1,18 +1,18 @@
-✅ To-Do App
+To-Do App
 
 A simple, intuitive, and interactive To-Do List App built using vanilla JavaScript, HTML, and CSS. This app helps users stay organized by managing daily tasks with features like edit, delete, complete, and priority tagging—all within a clean and responsive UI.
 
-✨ Features
+Features
 
-✅ Add Tasks: Quickly add new tasks using the input form.
+Add Tasks: Quickly add new tasks using the input form.
 
-📝 Edit Tasks: Modify your existing tasks inline by toggling between Edit and Save.
+Edit Tasks: Modify your existing tasks inline by toggling between Edit and Save.
 
-❌ Delete Tasks: Remove tasks from the list with a single click.
+Delete Tasks: Remove tasks from the list with a single click.
 
-✔️ Mark as Completed: Cross out completed tasks with a visual line-through style.
+Mark as Completed: Cross out completed tasks with a visual line-through style.
 
-🚨 Set Task Priority
+Set Task Priority
 
 Highlight important tasks with a Priority toggle that visually distinguishes them from others.
 
